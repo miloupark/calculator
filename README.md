@@ -1,5 +1,9 @@
 # 🧮 Calculator
 
+> 📝 **Note**:  
+> This project has been **migrated** to the unified portfolio repository:  
+> 👉 [hyebin.dev/calculator](https://hyebin.dev/calculator)
+
 ![계산기 디자인](./src/images/calculator_ui.png)
 
 ### 나만의 계산기 구현하기 | JS Final Mission in OZ
